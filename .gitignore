@@ -1,0 +1,14 @@
+# LSP servers
+.cache
+
+# Editors
+.vscode
+
+# Ocaml intermediate files
+*.cmi
+*.cmo
+*.cmx
+*.o
+
+# Build output
+build
